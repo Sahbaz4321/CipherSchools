@@ -1,0 +1,62 @@
+.file-explorer.light {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.file-explorer.dark {
+  background-color: #1e1e1e;
+  color: #f8f9fa;
+}
+
+.file-explorer.dark .list-group-item {
+  background-color: #2b2b2b;
+  color: #f8f9fa;
+}
+
+.file-explorer.light .list-group-item {
+  background-color: #fff;
+  color: #212529;
+}
+
+.list-group-item.active {
+  background-color: #0d6efd !important;
+  color: #fff !important;
+}
+
+.file-list {
+  flex-grow: 1;
+  overflow-y: auto;
+  max-height: 100%;
+}
+
+@media (max-width: 768px) {
+  .file-explorer {
+    padding: 0.5rem;
+  }
+}
+
+.file-explorer {
+  font-size: 14px;
+}
+
+.tree-node .node-label {
+  border-radius: 4px;
+}
+
+.tree-node .node-label:hover {
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.tree-node.active > .node-label {
+  background-color: #d0e0ff;
+}
+
+.node-actions .action-icon {
+  margin-left: 6px;
+  cursor: pointer;
+}
+
+.node-actions .action-icon:hover {
+  color: #007bff;
+}

@@ -1,0 +1,20 @@
+.live-preview.light {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.live-preview.dark {
+  background-color: #1e1e1e;
+  color: #f8f9fa;
+}
+
+.card-body {
+  padding: 0.5rem !important;
+}
+
+@media (max-width: 768px) {
+  .live-preview {
+    margin-top: 0.5rem;
+  }
+}
+
