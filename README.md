@@ -96,8 +96,6 @@ Live Demo
 Frontend: https://cipherreactide.vercel.app
 
 
-<img width="1919" height="899" alt="Screenshot 2025-10-22 164904" src="https://github.com/user-attachments/assets/5fd83c3e-e01d-43c3-b9f6-c218755c195a" />
-<img width="1919" height="903" alt="Screenshot 2025-10-22 164850" src="https://github.com/user-attachments/assets/136c3d80-a918-4f07-93f4-72009364692e" />
 
 
 
